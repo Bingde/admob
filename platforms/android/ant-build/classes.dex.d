@@ -1,0 +1,19 @@
+c:\test\test2\platforms\android\ant-build\classes.dex : \
+c:\test\test2\platforms\android\ant-build\classes\com\rjfun\cordova\admob\AdMobMediation.class \
+c:\test\test2\platforms\android\ant-build\classes\com\rjfun\cordova\admob\AdMobPlugin$1.class \
+c:\test\test2\platforms\android\ant-build\classes\com\rjfun\cordova\admob\AdMobPlugin$BannerListener.class \
+c:\test\test2\platforms\android\ant-build\classes\com\rjfun\cordova\admob\AdMobPlugin$InterstitialListener.class \
+c:\test\test2\platforms\android\ant-build\classes\com\rjfun\cordova\admob\AdMobPlugin.class \
+c:\test\test2\platforms\android\ant-build\classes\com\rjfun\cordova\ext\CordovaPluginExt.class \
+c:\test\test2\platforms\android\ant-build\classes\com\rjfun\cordova\ext\PluginAdapterDelegate.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\BuildConfig.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\CordovaApp.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\R$attr.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\R$drawable.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\R$integer.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
+c:\test\test2\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
+c:\test\test2\platforms\android\ant-build\dexedLibs\classes-c2e04fb337d0fe78acd6fa39b3ea8ce2.jar \
+c:\test\test2\platforms\android\ant-build\dexedLibs\google-play-services-f2af41c1188b44f10351ff0895c46018.jar \
+c:\test\test2\platforms\android\ant-build\dexedLibs\cordova-generic-ad-7e1df92eab15dcb7969a4ea194cc3bda.jar \
