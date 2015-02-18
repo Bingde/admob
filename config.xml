@@ -10,6 +10,6 @@
     <content src="index.html" />
 	
     <access origin="*" />
-	<gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io">
+	<gap:plugin name="com.admob.google" source="plugins.cordova.io" />
 	</gap:plugin>
 </widget>
