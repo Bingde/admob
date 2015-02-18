@@ -8,6 +8,8 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
-	<gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io"/>
+	
     <access origin="*" />
+	<gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io">
+	</gap:plugin>
 </widget>
