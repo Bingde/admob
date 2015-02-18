@@ -1,15 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HelloCordova</name>
-    <description>
-        A sample Apache Cordova application that responds to the deviceready event.
-    </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
-    </author>
-    <content src="index.html" />
-	
-    <access origin="*" />
-	<gap:plugin name="com.admob.google" source="plugins.cordova.io" />
-	</gap:plugin>
+<widget id="com.appfeel.admob.test" version="0.0.1" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+  <name>AdMobTest</name>
+  <description>
+    A sample Phonegap Build application with Admob ads integrated.
+  </description>
+  <author email="info@appfeel.com" href="https://github.com/appfeel/admob-google-cordova">AppFeel</author>
+  <content src="index.html" />
+  <access origin="*" />
+  <preference name="LogLevel" value="VERBOSE"/>
+  <preference name="debuggable" value="true"/>
+  
+  <gap:plugin name="com.admob.google" source="plugins.cordova.io" />
+  
+  <icon src="res/appFeel-512.png" />
+  
+  <platform name="android">
+    <icon src="res/android/ic_launcher_ldpi.png" density="ldpi" />
+    <icon src="res/android/ic_launcher_mdpi.png" density="mdpi" />
+    <icon src="res/android/ic_launcher_hdpi.png" density="hdpi" />
+    <icon src="res/android/ic_launcher_xhdpi.png" density="xhdpi" />
+    <icon src="res/android/ic_launcher_xxhdpi.png" density="xxhdpi" />
+    <icon src="res/android/ic_launcher_xxxhdpi.png" density="xxxhdpi" />
+  </platform>
+  
+  
+  </platform>
 </widget>
